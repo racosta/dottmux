@@ -1,0 +1,15 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-colors-solarized"]
+	path = plugins/tmux-colors-solarized
+	url = https://github.com/seebi/tmux-colors-solarized.git
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
+[submodule "plugins/tmux-prefix-highlight"]
+	path = plugins/tmux-prefix-highlight
+	url = https://github.com/tmux-plugins/tmux-prefix-highlight.git
+[submodule "plugins/tmux-sidebar"]
+	path = plugins/tmux-sidebar
+	url = https://github.com/tmux-plugins/tmux-sidebar.git
