@@ -1,1 +1,5 @@
 /login/sg210832/.tmux	40
+/login/sg210832	40
+/login/sg210832	40
+/login/sg210832	40
+/project/ezcrew_new/ryan/git/orapps/Common	40
